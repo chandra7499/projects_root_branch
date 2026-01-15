@@ -41,7 +41,7 @@ The application is designed with a focus on **responsive UI, usability, and perf
 
 ### 🌐 Live Project Link
 
-👉 *(tanzon-store-6cbb4.web.app)*  
+👉 *(https://tanzon-store-6cbb4.web.app)*  
 
 ### 💻 Project Codebase
 
@@ -83,7 +83,7 @@ The system implements **Role-Based Access Control (RBAC)**, ensuring that differ
 
 ### 🌐 Live Project Link
 
-👉 *(tarzon-store-admin-ix5aetyts.vercel.app)*  
+👉 *(https://tarzon-store-admin-ix5aetyts.vercel.app)*  
 
 ### 💻 Project Codebase
 
