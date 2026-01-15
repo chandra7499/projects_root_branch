@@ -165,4 +165,4 @@ The application supports real-time message delivery using WebSockets and follows
 
 ## 📍 Repository Purpose
 
-This repository acts as a **single entry point** for reviewing all completed projects, making it easier for recruiters and teams to evaluate work without navigating multiple links.
+This repository acts as a **single entry point** for reviewing all completed projects, making it easier for recruiters and teams to evaluate work without navigating multiple links through this readme.
